@@ -27,6 +27,15 @@ Healthcare dataset analysis identifying medical factors related to heart disease
 ### 5. Apple Stock Market Analysis
 Financial dataset analysis examining historical stock trends and market volatility.
 
+## Key Skills Demonstrated
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization
+- Pattern and Trend Identification
+- Domain-based Data Analysis
+
 ## Repository Structure
 
 data/ → datasets used in projects  
@@ -36,3 +45,4 @@ visualizations/ → key charts and graphs
 presentation/ → project presentation slides  
 docs/ → additional documentation  
 src/ → reusable scripts and functions
+
