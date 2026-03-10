@@ -12,8 +12,13 @@ This repository contains five data analysis projects from different domains demo
 
 ## Projects
 
+📄 Report: reports/project1_supermarket_sales_analysis.pdf  
+📓 Notebook: Notebook/project1_supermarket_sales_analysis.ipynb  
+📊 Visualizations: Visualization/
+
 ### 1. Supermarket Sales Analysis
 Retail dataset analysis identifying sales trends, top products, and customer purchasing patterns.
+
 
 ### 2. Student Performance Analysis
 Education dataset analysis exploring relationships between demographics and academic performance.
@@ -45,4 +50,5 @@ visualizations/ → key charts and graphs
 presentation/ → project presentation slides  
 docs/ → additional documentation  
 src/ → reusable scripts and functions
+
 
