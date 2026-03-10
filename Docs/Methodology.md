@@ -18,4 +18,5 @@ Charts were created using Matplotlib and Seaborn to communicate insights.
 Each project concludes with key findings and recommendations.
 
 Tools used:
+
 Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
